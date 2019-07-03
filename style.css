@@ -2,7 +2,6 @@ body{
     background-image: url(./images/code.jpg);    
  }
  .container{
-
     background-color:white;
     width:960px;
     margin-left:auto;
@@ -10,16 +9,16 @@ body{
  }
  h1{
     position:relative;
-    top:20px;
+    top:7px;
     left:15px;
     text-align:left;
     border: solid;
     border-color: grey;
     border-radius:10px;
     padding-left:25px;
-    width:200px;
+    width:260px;
     background-color:#1F3833;
-     color:#66FCF1
+    color:#66FCF1
     margin-top:25px;
     vertical-align: middle;
 }
