@@ -50,10 +50,7 @@ body{
     position:fixed;    
     bottom:0;
 }
-.portfolio-grid col-md-3{
-    border-color:white;
-    border-width:25px;
-}
+
 .label{
     background-color:teal;
     color:black;
